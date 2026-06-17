@@ -1,19 +1,19 @@
 {
-  "version": "1.1.9",
+  "version": "1.2.0",
   "notes": "Ban cap nhat tu dong moi nhat.",
-  "pub_date": "2026-06-09T12:31:40.822Z",
+  "pub_date": "2026-06-17T05:24:57.429Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUlIwWTA3cXdHYUV5emJJcXM4WllQa1BoQzFud00yUERuMUdvTzZ1emo3dzJnNUw4YUxEcVJzaks4VU1JR09sbXU0QXIzVkhoUk9yQjB6TkNtYzB2cTV1dFhHdkNhWkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA4Mjg2CWZpbGU6UFZHQVMgUHJpbnRlciBNYW5hZ2VyXzEuMS45X3g2NC1zZXR1cC5uc2lzLnppcApYdG5ZQXdRM1dNUmU5OHBUc3F1bVZ4aDdSVTFNbVU0d3VBT09xWU1RYkF0MFZ1NDVOL2p6bnRLUnkzRSt0YmpDQXNPOUJHdDRRODZWN2Qrb2NXL3lBdz09Cg==",
-      "url": "https://github.com/ducdatnguyen95/PVGAS_Printer_Updates/releases/download/app-v1.1.9/PVGAS.Printer.Manager_1.1.9_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUlIwWTA3cXdHYUNOdDhCdUwyV3YxUlZSQmJSc0U2V2I0K3kvMmsrdmo4VTRIbUEyYTlSNHQ5V1grVjcrSVVya250QWVxK3pqck9UcHNWUHdUdUFvUlR2aWc5OHY3V1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjczODg0CWZpbGU6UFZHQVMgUHJpbnRlciBNYW5hZ2VyXzEuMi4wX3g2NC1zZXR1cC5uc2lzLnppcApIWW1MNW55cCt1c0M2cjRpWkNBVkxEbktrMFp4NlpnV24ybWhFQnNvakxFK3E1VjFsZ3NaZXRiOHh4MzFlUUFLczJzWjBSZ1gwSW4xZUpGWHdQY0dCQT09Cg==",
+      "url": "https://github.com/ducdatnguyen95/PVGAS_Printer_Updates/releases/download/app-v1.2.0/PVGAS.Printer.Manager_1.2.0_x64-setup.nsis.zip"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUlIwWTA3cXdHYUV5emJJcXM4WllQa1BoQzFud00yUERuMUdvTzZ1emo3dzJnNUw4YUxEcVJzaks4VU1JR09sbXU0QXIzVkhoUk9yQjB6TkNtYzB2cTV1dFhHdkNhWkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA4Mjg2CWZpbGU6UFZHQVMgUHJpbnRlciBNYW5hZ2VyXzEuMS45X3g2NC1zZXR1cC5uc2lzLnppcApYdG5ZQXdRM1dNUmU5OHBUc3F1bVZ4aDdSVTFNbVU0d3VBT09xWU1RYkF0MFZ1NDVOL2p6bnRLUnkzRSt0YmpDQXNPOUJHdDRRODZWN2Qrb2NXL3lBdz09Cg==",
-      "url": "https://github.com/ducdatnguyen95/PVGAS_Printer_Updates/releases/download/app-v1.1.9/PVGAS.Printer.Manager_1.1.9_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUlIwWTA3cXdHYUNOdDhCdUwyV3YxUlZSQmJSc0U2V2I0K3kvMmsrdmo4VTRIbUEyYTlSNHQ5V1grVjcrSVVya250QWVxK3pqck9UcHNWUHdUdUFvUlR2aWc5OHY3V1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjczODg0CWZpbGU6UFZHQVMgUHJpbnRlciBNYW5hZ2VyXzEuMi4wX3g2NC1zZXR1cC5uc2lzLnppcApIWW1MNW55cCt1c0M2cjRpWkNBVkxEbktrMFp4NlpnV24ybWhFQnNvakxFK3E1VjFsZ3NaZXRiOHh4MzFlUUFLczJzWjBSZ1gwSW4xZUpGWHdQY0dCQT09Cg==",
+      "url": "https://github.com/ducdatnguyen95/PVGAS_Printer_Updates/releases/download/app-v1.2.0/PVGAS.Printer.Manager_1.2.0_x64-setup.nsis.zip"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUlIwWTA3cXdHYURzN2g4UVg3c2twQkxvOWNnZVVhanhDblh0N002SjZIOEdycDNPYXVvaGxHU3JjSnV4eXV1aWFRSHlwVHN0U0N2ZVoxN041SWxyTHUzdm5EdC85V1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA4Mjg2CWZpbGU6UFZHQVMgUHJpbnRlciBNYW5hZ2VyXzEuMS45X3g2NF9lbi1VUy5tc2kuemlwCktaY3hVcUFpeHpTSnlUVlNFQkV5QmxDb2pMQmE2VnhLZEZsK1U5NWxvd05jaFBQNjR5MEpKWUs2cDFJSWs1MFplY1B4dmNXd1NOelpKL2w0WHAwZUJRPT0K",
-      "url": "https://github.com/ducdatnguyen95/PVGAS_Printer_Updates/releases/download/app-v1.1.9/PVGAS.Printer.Manager_1.1.9_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUlIwWTA3cXdHYUJLdlJZWGVSVHRIU2c4dGY3WVZrT2kvaXRSSVdoOHBMZkQ3OERBM2luendmU1JjNUw0Skp6eTMyTm1CUi8wUHZFVHdiOTNEWXRvdnJyYktyU0NtVWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjczODgzCWZpbGU6UFZHQVMgUHJpbnRlciBNYW5hZ2VyXzEuMi4wX3g2NF9lbi1VUy5tc2kuemlwCklCSVBaSUFEOW54MGQwOHdDL2dpYlpmaGordVpBYkIwaGZZUE50bkM2REV0SlEwaElNc1pQQ0pqT2dVOTZhbzE2VmZzOVJXdFZRejM0WUNub2hWQUNnPT0K",
+      "url": "https://github.com/ducdatnguyen95/PVGAS_Printer_Updates/releases/download/app-v1.2.0/PVGAS.Printer.Manager_1.2.0_x64_en-US.msi.zip"
     }
   }
 }
